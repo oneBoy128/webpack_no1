@@ -12,6 +12,15 @@ npm mini-css-extract-plugin -D
 npm path -D
 ```
 
+### 执行指令
+```
+//普通打包指令
+npx webpack
+
+//热更新打包指令
+npx webpack-dev-server
+```
+
 ### 解析模块
 #### 所需导入的包
 ```
